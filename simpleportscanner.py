@@ -1,6 +1,5 @@
-#importing socet helps us to make a connection to that ip address or that domain name. 
-# Importing Ipy helps us to change the domain name into the ip address of that domain respectively. 
-# This will be your responsibility if you scan any ports I will not be responsible for any of them. 
+# Any random scanning of ports of any random website or IP, I will not be responsible for any of it.
+#Enjoy
 import socket
 from IPy import IP
 def scan(target, port_range):
